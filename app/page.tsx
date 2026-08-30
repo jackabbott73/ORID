@@ -109,7 +109,7 @@ export default function Home() {
       </header>
 
       <section id="top" className="hero">
-        <Image src="/images/cosmic-cliffs.jpg" alt="The Cosmic Cliffs in the Carina Nebula, photographed by the James Webb Space Telescope" fill priority className="hero-image" />
+        <Image src="/images/cosmic-cliffs.jpg" alt="The Keyhole Nebula in the Carina Nebula, photographed by the Hubble Space Telescope" fill priority className="hero-image" />
         <div className="hero-wash" />
         <div className="hero-grid" />
         <div className="hero-content shell">
@@ -124,7 +124,7 @@ export default function Home() {
         <div className="hero-meta shell">
           <div><CalendarDays /><span><small>WHEN</small>Spring 2027</span></div>
           <div><MapPin /><span><small>WHERE</small>Oak Ridge, Tennessee</span></div>
-          <div><Users /><span><small>YEAR ONE</small>300–500 attendees</span></div>
+          <div><Users /><span><small>YEAR ONE GOAL</small>1,300 attendees</span></div>
           <p>CONCEPT STAGE · DETAILS SUBJECT TO CONFIRMATION</p>
         </div>
       </section>
@@ -236,12 +236,12 @@ export default function Home() {
         <div className="growth-grid">
           <div>
             <h2>Begin focused.<br /><em>Build with purpose.</em></h2>
-            <p>The first event is designed to establish a credible annual forum, with a path toward a three-day regional conference.</p>
+            <p>The first event is designed to fill the Oak Ridge auditorium, then extend its reach in successive years through a high-quality internet broadcast.</p>
           </div>
           <div className="growth-steps">
-            <article><span>YEAR 1</span><strong>300–500</strong><p>attendees · focused one-day conference</p></article>
-            <article><span>YEAR 3</span><strong>600–800</strong><p>attendees · expanded sessions and exhibits</p></article>
-            <article><span>LONG TERM</span><strong>1,000+</strong><p>attendees · a three-day destination event</p></article>
+            <article><span>YEAR 1</span><strong>1,300</strong><p>in-person attendee goal · focused one-day conference</p></article>
+            <article><span>NEXT PHASE</span><strong>HYBRID</strong><p>add a professionally produced live internet broadcast</p></article>
+            <article><span>LONG TERM</span><strong>GLOBAL</strong><p>keep the Oak Ridge home while building a worldwide audience</p></article>
           </div>
         </div>
         <div className="future-program">

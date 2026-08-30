@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("http://localhost:3000"),
   title: "Oak Ridge Conference on Science & Intelligent Design",
   description:
     "A proposed scientific conference convening rigorous dialogue on information, origins, and design in nature. Oak Ridge, Tennessee — Spring 2027.",
